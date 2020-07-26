@@ -197,15 +197,15 @@ def scorekeeper():
 
 
 def reset():
-    button1['text'] = ' '
-    button2['text'] = ' '
-    button3['text'] = ' '
-    button4['text'] = ' '
-    button5['text'] = ' '
-    button6['text'] = ' '
-    button7['text'] = ' '
-    button8['text'] = ' '
-    button9['text'] = ' '
+    button1['text'] = ''
+    button2['text'] = ''
+    button3['text'] = ''
+    button4['text'] = ''
+    button5['text'] = ''
+    button6['text'] = ''
+    button7['text'] = ''
+    button8['text'] = ''
+    button9['text'] = ''
 
     button1.configure(background='gainsboro')
     button2.configure(background='gainsboro')
